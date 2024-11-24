@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------------------------ #
-# Title: Assignment06
+# Title: Assignment07
 # Desc: This assignment demonstrates using  data classes
-# with structured error handling and SoC
+# with structured error handling
 # Change Log: (Who, When, What)
 #   Renato Felicio, 11/16/2024,Created Script
 #   Renato Felicio, 11/23/2024, Modified to work with data classes
